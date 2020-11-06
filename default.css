@@ -1,4 +1,23 @@
 body{
 	background-color: #000000;
 	color: #FFFFFF;
+}a{
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+a:link{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+a:active{
+	color: #FFFFFF;
+	text-decoration: blink;
+}
+a:hover{
+	color: orange;
+	text-decoration: underline;
+}
+a:visited{
+	text-decoration: none;
+	color: #eeeeee;
 }
